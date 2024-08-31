@@ -1,5 +1,5 @@
 Download and Install any local web server such as XAMPP/WAMP.
-Download the provided source code zip file. (download button is located below)
+
 
 Installation
 
